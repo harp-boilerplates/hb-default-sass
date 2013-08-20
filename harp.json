@@ -1,6 +1,5 @@
 {
   "globals": {
-    "name"  : "Brock Whitten",
-    "debug" : false
+    "name"  : "Minimal Harp Project"
   }
 }
